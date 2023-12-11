@@ -24,4 +24,4 @@ a confecção da interface do jogo
    
 A tela que inicia o jogo já possui o tabuleiro e título do jogo juntamente com a tarefa que
 deverá ser realizada pelo usuário, posteriormente tentaremos inserir um menu inicial antes
-de começar o jogo.
+de começar o jogo e fases com diferentes tarefas.
