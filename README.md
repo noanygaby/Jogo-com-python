@@ -17,10 +17,14 @@ e cores com diferentes tipos de tarefas a serem compridas.
 
 3. Tecnologias utilizadas:
 
-Foi utilizado a biblioteca pygame do python para a criação do jogo e o site pixilart para 
-a confecção da interface do jogo
+Foi utilizado a linguagem de programação Python, a biblioteca Pygame para a criação do jogo, juntamente com a biblioteca
+random para criação de uma determinada função, além do site pixilart para a confecção da interface do jogo
 
-3. Inteface e desenvolvimentos futuros:
+4. Utilização:
+
+Para o devido funcionamento do jogo 
+   
+4. Inteface e desenvolvimentos futuros:
    
 A tela que inicia o jogo já possui o tabuleiro e título do jogo juntamente com a tarefa que
 deverá ser realizada pelo usuário, posteriormente tentaremos inserir um menu inicial antes
