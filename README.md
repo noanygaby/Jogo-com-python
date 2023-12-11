@@ -19,10 +19,6 @@ e cores com diferentes tipos de tarefas a serem compridas.
 
 Foi utilizado a linguagem de programação Python, a biblioteca Pygame para a criação do jogo, juntamente com a biblioteca
 random para criação de uma determinada função, além do site pixilart para a confecção da interface do jogo
-
-4. Utilização:
-
-Para o devido funcionamento do jogo 
    
 4. Inteface e desenvolvimentos futuros:
    
